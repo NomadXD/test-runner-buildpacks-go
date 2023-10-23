@@ -1,1 +1,1 @@
-web:go test ./... -v
+web: go test ./... -v
